@@ -1,0 +1,13 @@
+# Site settings
+title: Paul's blog
+email: paul.wilson@merecomplexities.com
+description: "Paul Wilson's blog"
+baseurl: ""
+url: "http://merecomplexities.com.com"
+github: paulanthonywilson
+twitter: paulanthonywils
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
