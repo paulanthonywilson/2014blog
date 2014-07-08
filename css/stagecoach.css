@@ -1,0 +1,12 @@
+
+img.stagecoach {
+  width: 360px;
+  float: left;
+  margin: 0 2em 0 2em
+}
+
+
+div.stagecoach_section {
+  clear: both;
+  padding: 1em 0
+}
