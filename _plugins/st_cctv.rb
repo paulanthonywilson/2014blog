@@ -5,8 +5,13 @@ module Stagecoach
       tokenise text
     end
 
+
+    def display_time
+      "#{time[0..1]}:#{time[2..3]}:#{time[5..6]}"
+    end
+
     def render context
-      "<img src='/images/stagecoach/#{camera}/#{time}_#{camera}.jpg' alt='#{title}' title='#{title}' class='stagecoach'>"
+      "<h3>Camera #{camera} at #{display_time}</h3><img src='/images/stagecoach/#{camera}/#{time.gsub(':', '.')}_#{camera}.jpg' alt='#{title}' title='#{title}' class='stagecoach'>"
     end
 
     def tokenise tag_contents

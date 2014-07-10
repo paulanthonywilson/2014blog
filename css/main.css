@@ -16,6 +16,11 @@ body {
   background-color: #fdfdfd;
 }
 
+
+.page-content p{
+  margin: 1em 0;
+}
+
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #2a7ae2; text-decoration: none; }
@@ -111,6 +116,10 @@ a:visited { color: #205caa; }
   width: -moz-calc(41.875%);
   width: -o-calc(41.875%);
   width: calc(41.875%);
+}
+
+li {
+  margin: 0 1em;
 }
 
 .site-footer ul { list-style: none; }
@@ -400,14 +409,14 @@ a:visited { color: #205caa; }
     float: none;
     clear: both;
     width: auto;
-    margin: 0 0 15px; }
+  margin: 0 0 15px; }
 
 }
 
 .clearfix:after {
-   content: " "; /* Older browser do not support empty content */
-   visibility: hidden;
-   display: block;
-   height: 0;
-   clear: both;
+  content: " "; /* Older browser do not support empty content */
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
 }
