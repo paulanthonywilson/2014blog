@@ -1,5 +1,5 @@
 ---
-title: The day Stagecoach Buses broke both my shoulders
+title: Stagecoach broke my shoulders
 layout: default
 ---
 
@@ -13,7 +13,8 @@ At that time I did not cycle with a helmet-cam, but I do have CCTV stills from t
 * Camera 3: Above the driver, to the left, pointing out of the door.
 * Camera 7: On the outside of the bus, on the back left, pointing forward.
 
-Here is what happened, illustrated with the CCTV captures.
+
+Below is what happened, illustrated with the CCTV captures. You can also look through all the images from those cameras [here](/pages/stagecoach-threecams).
 
 ## Leadup
 
@@ -44,7 +45,7 @@ We accelerated [downhill to Dean Bridge](https://goo.gl/maps/MltCR).
 
 
 {% stagecoach %}
-{% cctv 1952.40 1 Towards Dean Bridge %}
+{% cctv 1952.55 1 Towards Dean Bridge %}
 
 
 {% stagecoach %}
@@ -161,7 +162,9 @@ At this point the rear of the bus had already forced me off my bike. I would hav
 {% stagecoach %}
 {% cctv 1953.53 1 %}
 
-About 300 metres later, the bus was stopped by the lights at the Orchard Brae junction. All time made up by the mad overtake, was lost.
+About 300 metres later, the bus was stopped by the lights at the Orchard Brae junction. 
+
+It's taken 1 minute and 39 seconds for the bus to get from those lights on  Queensferry Street to these lights. If Mitchell hadn't overtaken me then the bus would be in exactly this place at this time.
 
 {% stagecoach_last %}
 

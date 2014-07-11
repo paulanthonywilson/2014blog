@@ -38,6 +38,43 @@ module Stagecoach
       "</div>"
     end
   end
+
+
+  class AllCameraImages
+    class CameraImage
+      def initialize camera, second
+        @camera = camera
+        @second = second
+      end
+
+
+      def seconds
+        "%02d" % ((14 + @second) % 60);
+      end
+
+      def minutes
+        "%02d" % (52 + (14 + @second) / 60)
+      end
+
+      def url
+        "/images/stagecoach/#{@camera}/19#{minutes}.#{seconds}_#{@camera}.jpg"
+      end
+
+      def cssClass
+        "19#{minutes}_#{seconds}"
+      end
+    end
+    def initialize tag_name, text, tokens
+      @camera = text.strip
+    end
+
+    def render context
+      (0..99).map{|i| CameraImage.new(@camera, i)}.map{|ci| 
+        "<img src='#{ci.url}' class='#{ci.cssClass}'></img>"
+      }
+
+    end
+  end
 end
 
 
@@ -45,5 +82,6 @@ Liquid::Template.register_tag('cctv', Stagecoach::CctvTag)
 Liquid::Template.register_tag('stagecoach_first', Stagecoach::FirstSection)
 Liquid::Template.register_tag('stagecoach', Stagecoach::Section)
 Liquid::Template.register_tag('stagecoach_last', Stagecoach::LastSection)
+Liquid::Template.register_tag('allcam', Stagecoach::AllCameraImages)
 
 p "oooh"

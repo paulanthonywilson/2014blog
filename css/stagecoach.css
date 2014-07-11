@@ -10,3 +10,40 @@ div.stagecoach_section {
   clear: both;
   padding: 1em 0
 }
+
+
+#three-cams .camera img {
+  width: 360px;
+  height: 288px;
+  position: absolute;
+  left: 0;
+  top: 188px;
+  
+}
+
+#three-cams .camera, #three-cams .controls{
+  position: relative;
+  width: 360px;
+  height: 288px;
+  overflow: hidden;
+  float: left;
+  position: relative;
+  border: solid 1px red;
+}
+
+#three-cams .controls button{
+  width: 10em;
+  height: 2em;
+}
+
+
+button#forward{
+  top: 140px;
+  left: 180px;
+  position: absolute;
+}
+button#back{
+  top: 140px;
+  left: 60px;
+  position: absolute;
+}
