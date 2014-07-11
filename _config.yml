@@ -3,7 +3,7 @@ title: Paul's blog
 email: paul.wilson@merecomplexities.com
 description: "Paul Wilson's blog"
 baseurl: ""
-url: "http://merecomplexities.com.com"
+url: "http://merecomplexities.com"
 github: paulanthonywilson
 twitter: paulanthonywils
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'gen.rb', 'bin']
