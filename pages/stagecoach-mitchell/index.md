@@ -86,7 +86,7 @@ At a reported speed of about 25mph, the bus doesn't get that much closer. I'm fo
 {% stagecoach %}
 {% cctv 1953.09 1 At the the pedestrian crossing%}
 
-The camera angle from directly beneath the driver gives the impression that I was a little further to the left than I am.
+The camera angle from directly beneath the driver gives the impression that I was a little further to the left than I am. I was about 2m from the kerb.
 
 {% stagecoach %}
 {% cctv 1953.10 1 At the the pedestrian crossing%}
@@ -111,7 +111,7 @@ The CCTV images are not great quality - here it is traced and annotated.
 
 There's a few things to note:
 
-* I was cycling over the "S" in the "BUS" lettering painted on the road. I have since measured this to be 2m out from the curb. The lane is 4.5m wide here.
+* I was cycling over the "S" in the "BUS" lettering painted on the road. I have since measured this to be 2m out from the kerb. The lane is 4.5m wide here.
 * The other cyclist was about 1 bus length ahead. This gave Mitchell no room to overtake me, then pull in behind the other cyclist.
 * Note the sharp left bend only about 100m ahead.
 * Also note how the lane narrows from the right, towards the entrance to the right turn lane. I have measured it to be 2.95m wide at that point.
@@ -139,7 +139,7 @@ Given the corner, my road position, the distance to the other cyclist, and the a
 {% stagecoach %}
 {% cctv 1953.14 7 %}
 
-Unable to move to the right turn lane, I hold my position (about 2m from the curb) as the lane closes in from the right.
+Unable to move to the right turn lane, I hold my position (about 2m from the kerb) as the lane closes in from the right.
 
 {% stagecoach %}
 {% cctv 1953.15 1 %}
