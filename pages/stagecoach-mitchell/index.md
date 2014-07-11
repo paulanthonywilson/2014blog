@@ -30,12 +30,12 @@ I am the cyclist on the right, with the red reflective-striped rucksack.
 {% stagecoach %}
 {% cctv 1952.15 1 Lights change%}
 
-The lights changed.
+The lights changed to green.
 
 {% stagecoach %}
 {% cctv 1952.17 1 Cyclists accelerate away %}
 
-We accelerate away, [downhill to Dean Bridge](https://goo.gl/maps/MltCR).
+We accelerated [downhill to Dean Bridge](https://goo.gl/maps/MltCR).
 
 {% stagecoach %}
 {% cctv 1952.20 1 Towards Dean Bridge %}
@@ -74,6 +74,8 @@ The Primary Road Position (aka "taking the lane") is appropriate here for two re
 {% stagecoach %}
 {% cctv 1953.06 1 Approaching the pedestrian crossing%}
 
+At a reported speed of about 25mph, the bus doesn't get that much closer. I'm forcing the bus to go 5mph below the speed limit - a reasonable speed for that section of road approaching a bend.
+
 {% stagecoach %}
 {% cctv 1953.07 1 At the the pedestrian crossing%}
 
@@ -93,7 +95,7 @@ Mitchell started the overtake.
 {% stagecoach %}
 {% cctv 1953.10 3 No hands %}
 
-Mitchell also decided to give me a toot of the horn at this point, for delaying the Stagecoach bus for possibly seconds. Throughout the entire recorded journey, camera 3 shows that Mitchell steered the bus entirely with his right hand.
+Mitchell also decided to give me a toot of the horn at this point to protest me delaying the Stagecoach bus, for up to a few seconds. Throughout the entire recorded journey, camera 3 shows that Mitchell steered the bus entirely with his right hand.
 
 To sound the horn, he took his right hand off the wheel: he was steering the bus with no hands, at the start of a dangerous manoeuvre.
 
@@ -109,8 +111,8 @@ The CCTV images are not great quality - here it is traced and annotated.
 There's a few things to note:
 
 * I was cycling over the "S" in the "BUS" lettering painted on the road. I have since measured this to be 2m out from the curb. The lane is 4.5m wide here.
-* The other cyclist was about 1 bus's length ahead. This gave Mitchell no room to overtake me, then pull in behind the other cyclist.
-* Note the sharp left bend only a couple of bus length's ahead.
+* The other cyclist was about 1 bus length ahead. This gave Mitchell no room to overtake me, then pull in behind the other cyclist.
+* Note the sharp left bend only about 100m ahead.
 * Also note how the lane narrows from the right, towards the entrance to the right turn lane. I have measured it to be 2.95m wide at that point.
 
 {% stagecoach %}
@@ -154,12 +156,12 @@ Instead the rear of the bus swings towards me, as we enter the corner.
 {% stagecoach %}
 {% cctv 1953.17 7 %}
 
-At this point I'm rolling in the road, having broken my shoulders on impact.
+At this point the rear of the bus had already forced me off my bike. I would have been ing in the road, having broken my shoulders on impact with the tarmac. 
 
 {% stagecoach %}
 {% cctv 1953.53 1 %}
 
-About 300 metres later, the bus was stopped by the lights at the Orchard Brae junction. All time made up by the mad overtake, is lost.
+About 300 metres later, the bus was stopped by the lights at the Orchard Brae junction. All time made up by the mad overtake, was lost.
 
 {% stagecoach_last %}
 
