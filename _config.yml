@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://merecomplexities.com.com"
 github: paulanthonywilson
 twitter: paulanthonywils
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'gen.rb', 'bin']
 
 
 # Build settings
