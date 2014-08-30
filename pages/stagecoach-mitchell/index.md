@@ -139,17 +139,17 @@ Given the corner, my road position, the distance to the other cyclist, and the a
 {% stagecoach %}
 {% cctv 1953.14 7 %}
 
-Unable to move to the right turn lane, I hold my position (about 2m from the kerb) as the lane closes in from the right.
+Unable to move to the right turn lane, I held my position (about 2m from the kerb) as the lane closed in from the right.
 
 {% stagecoach %}
 {% cctv 1953.15 1 %}
 
-Mitchell enters the right turn lane, but he's not going to turn right.
+Mitchell entered the right turn lane, but he wasn't going to turn right.
 
 {% stagecoach %}
 {% cctv 1953.15 7 %}
 
-Instead the rear of the bus swings towards me, as we enter the corner.
+Instead the rear of the bus swung towards me, as we entered the corner.
 
 {% stagecoach %}
 {% cctv 1953.16 7 %}
@@ -157,14 +157,14 @@ Instead the rear of the bus swings towards me, as we enter the corner.
 {% stagecoach %}
 {% cctv 1953.17 7 %}
 
-At this point the rear of the bus had already forced me off my bike. I would have been ing in the road, having broken my shoulders on impact with the tarmac. 
+At this point the rear of the bus had already forced me off my bike. I would have been rolling in the road, having broken my shoulders on impact with the tarmac. 
 
 {% stagecoach %}
 {% cctv 1953.53 1 %}
 
 About 300 metres later, the bus was stopped by the lights at the Orchard Brae junction. 
 
-It's taken 1 minute and 39 seconds for the bus to get from those lights on  Queensferry Street to these lights. If Mitchell hadn't overtaken me then the bus would be in exactly this place at this time.
+It ttook 1 minute and 39 seconds for the bus to get from those lights on  Queensferry Street to these lights. If Mitchell hadn't overtaken me then the bus would have been in exactly this place at this time.
 
 {% stagecoach_last %}
 
