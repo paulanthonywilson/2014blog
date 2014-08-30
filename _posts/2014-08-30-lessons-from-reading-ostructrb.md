@@ -72,7 +72,7 @@ When errors are raised (in [modifiable](https://github.com/ruby/ruby/blob/v2_1_2
 
 [define_singleton_method](http://ruby-doc.org/core-1.9.3/Object.html#method-i-define_singleton_method) is method on Object that was introduced in Ruby 1.9, but had passed all us ScotRUG members by. It does what it says - defines a method on an object's singleton class: that is it defines a method on an object instance without affecting other instances of its class. Prior to 1.9, the method would need to be retrieved - messy business.
 
-This is the [current](https://github.com/ruby/ruby/blob/v2_1_2/lib/ostruct.rb#L169-170) way OStruct dynamically defines methods:-
+This is the [current](https://github.com/ruby/ruby/blob/v2_1_2/lib/ostruct.rb#L169-170) way OpenStruct dynamically defines methods:-
 
 {% highlight ruby %}
 #
