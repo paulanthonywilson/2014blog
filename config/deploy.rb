@@ -19,8 +19,8 @@ namespace :vlad do
   task :update do
     c = []
     c << "cd #{release_path}"
-    c << "bundle install"
-    c << "bundle exec jekyll build"
+    c << "/home/merecomp/.rbenv/shims/bundle install"
+    c << "/home/merecomp/.rbenv/shims/bundle exec jekyll build"
     run c * " && "
   end
 
