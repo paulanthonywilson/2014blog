@@ -12,3 +12,5 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'gen.rb', 'bin']
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-minimal
