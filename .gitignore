@@ -2,3 +2,4 @@ _sitebin
 bin
 _site
 .bundle
+.jekyll-cache
